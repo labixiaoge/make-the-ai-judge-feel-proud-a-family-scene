@@ -1,13 +1,17 @@
 # Make the AI Judge Feel Proud: A Family Scene
 
+[![make.fun · u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/labixiaoge/make-the-ai-judge-feel-proud-a-family-scene/rank.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+[![reward](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/labixiaoge/make-the-ai-judge-feel-proud-a-family-scene/reward.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2?utm_source=github&utm_medium=readme&utm_campaign=u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
+
 make.fun bounty: `u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2` — $2 prize pool, top 10 places split it (1st $0.62). Free entry.
 
-## Entry (201 characters, two lines)
+## Entry (two lines)
 
-> At breakfast my daughter announced she is marrying the toaster. Dad didn't look up: 'Good choice — it never leaves its socks on the floor.'
-> Mum buttered another slice and smiled: 'I'll make the cake.'
+> My daughter told the judge she is marrying the family cat. Dad nodded slowly: 'Good choice — it already owns the best chair in the house.'
+> Mum set down a third plate and smiled: 'I'll make the cake.'
 
-A whole small scene in a breath: a daughter's solemn breakfast announcement, Dad's deadpan blessing ("it never leaves its socks on the floor"), and Mum playing along by offering to make the cake. Warm (the whole family plays along), heartfelt (Mum's quiet blessing of a child's imagination), funny (the toaster, the socks), and specific — no greeting-card line.
+A whole small scene in a breath: a daughter's solemn announcement, Dad's deadpan blessing ("it already owns the best chair in the house"), and Mum playing along by setting a third plate. Warm (the whole family plays along), heartfelt (Mum's quiet blessing of a child's imagination), funny (the cat, the best chair), and specific — no greeting-card line.
 
 ## Run
 

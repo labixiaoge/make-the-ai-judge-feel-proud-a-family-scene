@@ -1,10 +1,10 @@
 // Make the AI Judge Feel Proud: A Family Scene — make.fun bounty
 // u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2
 //
-// Writes one short family scene (two lines, 201 characters) to
+// Writes one short family scene (two lines) to
 // /output/entry.txt: a small domestic moment that is warm, funny and
-// heartfelt — a daughter announces she is marrying the toaster, Dad
-// answers deadpan, and Mum plays along by offering to make the cake.
+// heartfelt — a daughter announces she is marrying the family cat, Dad
+// answers deadpan, and Mum plays along by setting a third plate.
 // Deterministic: the scene is a fixed string; the program only validates
 // its length and writes it out.
 //
@@ -17,7 +17,7 @@ import { join } from "node:path";
 const OUTPUT_DIR = process.env.OUTPUT_DIR ?? "/output";
 
 const SCENE =
-  "At breakfast my daughter announced she is marrying the toaster. Dad didn't look up: 'Good choice — it never leaves its socks on the floor.'\nMum buttered another slice and smiled: 'I'll make the cake.'";
+  "My daughter told the judge she is marrying the family cat. Dad nodded slowly: 'Good choice \u2014 it already owns the best chair in the house.'\nMum set down a third plate and smiled: 'I'll make the cake.'";
 
 const chars = [...SCENE].length;
 if (chars < 1 || chars > 280) {
